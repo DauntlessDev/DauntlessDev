@@ -10,7 +10,7 @@ I'm Brave Leuterio, a software engineer who enjoys learning new stuff. I love de
 
 
 
-<a href="https://github.com/AVS1508">
+<a href="https://github.com/DauntlessDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DauntlessDev&theme=react&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DauntlessDev&theme=react&layout=compact" />
 </a>
