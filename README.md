@@ -4,8 +4,8 @@ I'm Brave Leuterio, a software engineer who enjoys learning new stuff. I love de
 
 
 
-- 🌱 I’m currently developing web application using MERN Stack
-- 👯 I’m also currently doing a Flutter-ML-AR project.
+- 🌱 I’m currently focus on developing web applications using MERN Stack
+- 👯 I’m also currently doing a Flutter-ML-AR project on the side.
 - 😄 Pronouns: He/His/Him
 
 
