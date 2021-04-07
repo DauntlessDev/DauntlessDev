@@ -1,6 +1,6 @@
 
 ### Hey there!👋
-I'm Brave Leuterio, a software engineer who enjoys learning new stuff. I love designing and creating my applications from scratch. 
+I'm Brave Leuterio, a software engineer student who enjoys learning new stuff. I love designing and creating my applications from scratch. 
 
 
 
