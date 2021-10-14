@@ -4,7 +4,7 @@ I'm Brave Leuterio, a software engineer student who enjoys learning new stuff. I
 
 
 
-- 🌱 I’m currently focus on developing web applications using MERN Stack
+- 🌱 I’m currently focusing on developing web applications using MERN Stack
 - 👯 I’m also currently doing a Flutter-ML-AR project on the side.
 - 😄 Pronouns: He/His/Him
 
