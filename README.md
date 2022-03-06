@@ -7,4 +7,5 @@ I'm Brave Leuterio, a software engineer student who enjoys learning new stuff. I
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DauntlessDev&theme=react&layout=compact" />
 </a>
 
+![](https://komarev.com/ghpvc/?username=DauntlessDev)
 <br/>
