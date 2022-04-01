@@ -6,7 +6,7 @@
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://dauntlessdev.netlify.app/)](https://dauntlessdev.netlify.app/)
 
 ### Hey there!👋
-I'm Brave Leuterio, a graduating software engineering student 🎓 who enjoys learning new stuff. Currently specializing in developing web applications using ReactJS⚛️ and focusing on polishing my MERN stack skills. Likewise, I also have a deep understanding of Flutter and some experience with Android.
+I'm Brave Leuterio, a graduating software engineering student 🎓 who enjoys learning new stuff. Currently specializing in developing web applications using ReactJS⚛️ and focusing on polishing my MERN stack skills. Likewise, I also have a deep understanding of Flutter and Java Development.
 
 
 <div align=center>
