@@ -5,8 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romleuterio@gmail.com)](mailto:romleuterio@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://dauntlessdev.netlify.app/)](https://dauntlessdev.netlify.app/)
 
-### Hey there!👋
-I'm Brave Leuterio, a graduating software engineering student 🎓 who enjoys learning new stuff. Currently specializing in developing web applications using ReactJS⚛️ and focusing on polishing my MERN stack skills. Likewise, I also have a deep understanding of Flutter Development.
+### Hey there! I am Brave👋
+
+🔭 I’m currently having an internship as a Back-End Developer in Meraki Software Solutions Corp. <br>
+🌱 I’m currently developing MERN Applications in my free time. <br>
+📫 Reach me: <a href="https://www.linkedin.com/in/romleuterio/" >linkedin.com/in/romleuterio/<a/> <br>
+⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <br>
 
 
 <div align=center>
