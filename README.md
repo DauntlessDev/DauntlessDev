@@ -31,5 +31,4 @@ https://github.com/ryo-ma/github-profile-trophy-->
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=algolia&no-frame=true&row=1&&margin-w=30&no-bg=true">
   
-  
  <br/>
