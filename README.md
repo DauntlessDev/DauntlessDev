@@ -9,7 +9,7 @@
 
 ### Hey there! I am Brave👋
 
-🔭 I’m currently having an internship as a Full-Stack Developer in Meraki Software Solutions Corp. <br>
+<!--🔭 I’m currently having an internship as a Full-Stack Developer in Meraki Software Solutions Corp. <br>-->
 🌱 I’m currently developing MERN applications in my free time. <br>
 ⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <br>
 📫 Reach me: <a href="https://www.linkedin.com/in/romleuterio/" >linkedin.com/in/romleuterio/<a/> <br>
