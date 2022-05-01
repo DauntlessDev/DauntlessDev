@@ -19,7 +19,7 @@
 <div align=center>
   <a href="https://github.com/DauntlessDev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DauntlessDev&theme=react&show_icons=true" /><br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DauntlessDev&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=57BDDA&fire=57BDDA&ring=57BDDA" alt="GitHub Streak Stats" height="150em" />
+    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=DauntlessDev&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=57BDDA&fire=57BDDA&ring=57BDDA" alt="GitHub Streak Stats" height="150em" /-->
   </a>
 </div>
 <br/>
