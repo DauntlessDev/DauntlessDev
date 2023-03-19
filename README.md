@@ -2,7 +2,7 @@
 
 ![](https://komarev.com/ghpvc/?username=DauntlessDev) <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/romleuterio/)](https://www.linkedin.com/in/romleuterio/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romleuterio@gmail.com)](mailto:romleuterio@gmail.com)
+<!-- [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romleuterio@gmail.com)](mailto:romleuterio@gmail.com) -->
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://dauntlessdev.netlify.app/)](https://dauntlessdev.netlify.app/)
 
 <!-- <img src="https://github.com/DauntlessDev/DauntlessDev/blob/main/dauntlessbanner.png" width="1000"> -->
@@ -12,7 +12,6 @@
 <!--🔭 I’m currently having an internship as a Full-Stack Developer in Meraki Software Solutions Corp. <br>-->
 🌱 I’m currently developing Laravel applications in my free time. <br>
 ⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <br>
-<!-- 📫 Reach me: <a href="https://www.linkedin.com/in/romleuterio/" >linkedin.com/in/romleuterio/<a/> <br> -->
 
 
 
