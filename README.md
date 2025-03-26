@@ -11,16 +11,16 @@
 
 🔭 I’m currently work as a Fullstack Developer in a Fintech Company. <br>
 🌱 I currently develop apps using Go, Postgresql, Docker, Angular, GCP and sometimes with MERN stack and Django. <br>
-⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <br>
+⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <be>
 
 
 
-<div align=center>
+<!--div align=center>
   <a href="https://github.com/DauntlessDev">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=DauntlessDev&theme=react&show_icons=true" /><br/>
-    <!--img src="https://github-readme-streak-stats.herokuapp.com/?user=DauntlessDev&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=57BDDA&fire=57BDDA&ring=57BDDA" alt="GitHub Streak Stats" height="150em" /-->
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=DauntlessDev&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=57BDDA&fire=57BDDA&ring=57BDDA" alt="GitHub Streak Stats" height="150em" />
   </a>
-</div>
+</div-->
 <br/>
 
   
