@@ -10,7 +10,7 @@
 ### Hey there! I am Brave👋
 
 🔭 I’m currently work as a Fullstack Developer in a Fintech Company. <br>
-🌱 I currently develop apps using Go, Postgresql, Docker, React/Angular, GCP. <br>
+🌱 I currently develop apps using Python/Django, React/Typescript, Postgresql, Docker, GCP. <br>
 ⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <be>
 
 
