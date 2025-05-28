@@ -6,14 +6,11 @@
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://dauntlessdev.netlify.app/)](https://dauntlessdev.netlify.app/)
 
 <!-- <img src="https://github.com/DauntlessDev/DauntlessDev/blob/main/dauntlessbanner.png" width="1000"> -->
-
 ### Hey there! I am Brave👋
 
 🔭 I’m currently work as a Fullstack Developer in a Fintech Company. <br>
-🌱 I currently develop apps and microservices using Go, React/Typescript, Postgresql, Docker, GCP. <br>
+🌱 I currently develop apps and microservices using Go & Django/Python, React/Typescript, Postgresql, Docker, GCP. <br>
 ⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <be>
-
-
 
 <!--div align=center>
   <a href="https://github.com/DauntlessDev">
@@ -23,7 +20,6 @@
 </div-->
 <br/>
 
-  
 <!--TROPHY
 WEBSITE:
 https://github.com/ryo-ma/github-profile-trophy-->
