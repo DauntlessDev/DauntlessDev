@@ -5,7 +5,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leuteriobrave@gmail.com)](mailto:leuteriobrave@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://dauntlessdev.netlify.app/)](https://dauntlessdev.netlify.app/)
 
-<!-- <img src="https://github.com/DauntlessDev/DauntlessDev/blob/main/dauntlessbanner.png" width="1000"> -->
 ### Hey there! I am Brave👋
 
 🔭 I’m currently work as a Fullstack Developer in a Fintech Company. <br>
