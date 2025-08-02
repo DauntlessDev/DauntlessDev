@@ -7,7 +7,7 @@
 
 ### Hey there! I am Brave👋
 
-🔭 I’m currently working as a Fullstack Developer in a Fintech Company. <br>
+🔭 I’m currently working as a Freelance Backend Developer in a Fintech Company. <br>
 🌱 I currently develop using Go, React & Angular (Javascript/Typescript), Postgresql, Docker, Terraform, GCP. <br>
 ⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <be>
 
