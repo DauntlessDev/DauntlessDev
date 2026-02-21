@@ -5,11 +5,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leuteriobrave@gmail.com)](mailto:leuteriobrave@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://dauntlessdev.netlify.app/)](https://dauntlessdev.netlify.app/)
 
-### Hey there! I am Brave👋
+### Hey there! I am Brave 👋
 
-🔭 I’m currently working as a Full Stack Developer in a Fintech Company. <br>
-🌱 I currently develop using Go, React & Angular (Javascript/Typescript), Postgresql, Docker, Terraform, GCP. <br>
-⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck. <be>
+🔭 I'm currently working as an **AI Full Stack Developer** at a Fintech Company, building payment infrastructure, real-time dashboards, and microservices at scale. <br>
+🌱 I currently develop using **Go, Next.js (App Router/SSR), React, TypeScript, Tailwind CSS, PostgreSQL, Redis, Docker, Terraform, and GCP.** <br>
+🤖 I accelerate delivery using AI-augmented workflows — Claude Code, Cursor, and GitHub Copilot — across spec generation, implementation, and review. <br>
+⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck.
 
 <!--div align=center>
   <a href="https://github.com/DauntlessDev">
