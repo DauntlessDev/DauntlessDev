@@ -9,7 +9,7 @@
 
 🔭 I'm currently working as an **AI Full Stack Developer** at a Fintech Company, building payment infrastructure, real-time dashboards, and microservices at scale. <br>
 🌱 I currently develop using **Go, Next.js (App Router/SSR), React, TypeScript, Tailwind CSS, PostgreSQL, Redis, Docker, Terraform, and GCP.** <br>
-🤖 I accelerate delivery using AI-augmented workflows — Claude Code, Cursor, and GitHub Copilot — across spec generation, implementation, and review. <br>
+🤖 I accelerate delivery using AI-augmented workflows (Claude Code, Cursor, and GitHub Copilot) across spec generation, implementation, and review. <br>
 ⚡ Fun fact: I have an inverted heart-shaped birthmark on my neck.
 
 <!--div align=center>
