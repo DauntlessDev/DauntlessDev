@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=DauntlessDev) <br/>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/braveleuterio/)](https://www.linkedin.com/in/braveleuterio/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:leuteriobrave@gmail.com)](mailto:leuteriobrave@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://dauntlessdev.netlify.app/)](https://dauntlessdev.netlify.app/)
+[![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Netlify&logoColor=darkGreen&link=https://braveleuterio.netlify.app/)](https://braveleuterio.netlify.app/)
 
 ### Hey there! I am Brave 👋
 
