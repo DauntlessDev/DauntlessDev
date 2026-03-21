@@ -17,12 +17,12 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=DauntlessDev&theme=react&date_format=j%20M%5B%20Y%5D&currStreakLabel=57BDDA&fire=57BDDA&ring=57BDDA" alt="GitHub Streak Stats" height="150em" />
   </a>
 </div-->
-<br/>
+<!-- <br/>
 
-<!--TROPHY
+<TROPHY
 WEBSITE:
-https://github.com/ryo-ma/github-profile-trophy-->
+https://github.com/ryo-ma/github-profile-trophy>
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=algolia&no-frame=true&row=1&&margin-w=30&no-bg=true">
   
- <br/>
+ <br/> -->
